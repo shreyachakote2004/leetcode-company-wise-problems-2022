@@ -1,5 +1,5 @@
-problem_link,problem_name,num_occur,done?
-https://leetcode.com/problems/keep-multiplying-found-values-by-two/,Keep Multiplying Found Values by Two,1,done
+problem_link,problem_name,num_occur
+https://leetcode.com/problems/keep-multiplying-found-values-by-two/,Keep Multiplying Found Values by Two,1
 https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/,Remove Duplicates From an Unsorted Linked List,2
 https://leetcode.com/problems/check-if-the-sentence-is-pangram/,Check if the Sentence Is Pangram,3
 https://leetcode.com/problems/find-the-winner-of-the-circular-game/,Find the Winner of the Circular Game,4
